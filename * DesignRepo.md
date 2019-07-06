@@ -6,83 +6,119 @@ tags:
     - 资源库
 ---
 
->记录设计上的一些工具、demo与案例分析。
+>摘录设计上的一些工具、demo与案例分析。
 
 # 目录
 <!-- TOC -->
 
-- [目录](#%E7%9B%AE%E5%BD%95)
-- [图片类资源](#%E5%9B%BE%E7%89%87%E7%B1%BB%E8%B5%84%E6%BA%90)
-  - [Unsplash](#unsplash)
-- [工具类资源](#%E5%B7%A5%E5%85%B7%E7%B1%BB%E8%B5%84%E6%BA%90)
-  - [Ikonate图标 - fully customisable & accessible vector icons](#ikonate%E5%9B%BE%E6%A0%87---fully-customisable--accessible-vector-icons)
-  - [图片去底色工具](#%E5%9B%BE%E7%89%87%E5%8E%BB%E5%BA%95%E8%89%B2%E5%B7%A5%E5%85%B7)
-- [demo站点](#demo%E7%AB%99%E7%82%B9)
-  - [Common Voice - 开源语音数据库项目](#common-voice---%E5%BC%80%E6%BA%90%E8%AF%AD%E9%9F%B3%E6%95%B0%E6%8D%AE%E5%BA%93%E9%A1%B9%E7%9B%AE)
-  - [2020 美国大选竞选者的个人主页 介绍](#2020-%E7%BE%8E%E5%9B%BD%E5%A4%A7%E9%80%89%E7%AB%9E%E9%80%89%E8%80%85%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-%E4%BB%8B%E7%BB%8D)
-  - [Nebula-ai](#nebula-ai)
-  - [siteinspire](#siteinspire)
-  - [reeoo.com](#reeoocom)
+- [目录](#目录)
+- [经验之谈](#经验之谈)
+    - [[从优秀的网页设计作品中学排版和配色](https://mp.weixin.qq.com/s/peAUD7vMgkfKGqRp63eJKA)](#从优秀的网页设计作品中学排版和配色httpsmpweixinqqcomspeaud7vmgkfkgqrp63ejka)
+    - [[如何做一张漂亮的poster？](https://www.douban.com/note/709977802/)](#如何做一张漂亮的posterhttpswwwdoubancomnote709977802)
+- [配色类资源](#配色类资源)
+    - [[中国色](http://zhongguose.com/)](#中国色httpzhongguosecom)
+    - [[ColorDot](https://color.hailpixel.com/)](#colordothttpscolorhailpixelcom)
+- [图片类资源](#图片类资源)
+    - [[Unsplash](https://unsplash.com/)](#unsplashhttpsunsplashcom)
+- [工具类资源](#工具类资源)
+    - [[Ikonate图标 - fully customisable & accessible vector icons](https://www.ikonate.com/)](#ikonate图标---fully-customisable--accessible-vector-iconshttpswwwikonatecom)
+    - [[iconfont](https://www.iconfont.cn/)](#iconfonthttpswwwiconfontcn)
+    - [[图片去底色工具](https://www.yasuotu.com/buttonColor)](#图片去底色工具httpswwwyasuotucombuttoncolor)
+    - [[cssfx - CSS 特效](https://cssfx.dev/)](#cssfx---css-特效httpscssfxdev)
+    - [[PATATAP](https://www.patatap.com/)](#patataphttpswwwpatatapcom)
+    - [[Photopea](https://www.photopea.com/)](#photopeahttpswwwphotopeacom)
+- [Web设计](#web设计)
+    - [[Web动画周报](https://juejin.im/post/5d14bcc46fb9a07f0052ecdf)](#web动画周报httpsjuejinimpost5d14bcc46fb9a07f0052ecdf)
+    - [[The State of CSS Reflections](https://juejin.im/post/5d148f64f265da1bae390ce3)](#the-state-of-css-reflectionshttpsjuejinimpost5d148f64f265da1bae390ce3)
+- [demo站点](#demo站点)
+    - [[Common Voice - 开源语音数据库项目](https://voice.mozilla.org/zh-CN/speak)](#common-voice---开源语音数据库项目httpsvoicemozillaorgzh-cnspeak)
+    - [[2020 美国大选竞选者的个人主页 介绍](https://practicaltypography.com/typography-2020.html)](#2020-美国大选竞选者的个人主页-介绍httpspracticaltypographycomtypography-2020html)
+    - [[Nebula-ai](https://www.nebula-ai.com/#Home)](#nebula-aihttpswwwnebula-aicomhome)
+    - [[siteinspire](https://www.siteinspire.com/)](#siteinspirehttpswwwsiteinspirecom)
+    - [[reeoo.com](www.reeoo.com)](#reeoocomwwwreeoocom)
 
 <!-- /TOC -->
 
+# 经验之谈
+
+## [从优秀的网页设计作品中学排版和配色](https://mp.weixin.qq.com/s/peAUD7vMgkfKGqRp63eJKA)
+
+## [如何做一张漂亮的poster？](https://www.douban.com/note/709977802/)
+
+<img src="https://img1.doubanio.com/view/note/l/public/p58806378.webp" alt="">
+
+如何做一张漂亮的poster，既能在人群之中脱颖而出，又能清晰明了地tell a story?
+
+# 配色类资源
+
+## [中国色](http://zhongguose.com/)
+
+中国色，网站设计的也很好看。还有一个类似的网址，是日本色：http://nipponcolors.com/
+
+<img src="http://img.linqunshu.cn/zhongguose.png" alt="">
+
+## [ColorDot](https://color.hailpixel.com/)
+
+通过点击，产生色卡组合。
+
+<img src="http://img.linqunshu.cn/clicktocolor.png" alt="">
+
 # 图片类资源
 
-## Unsplash
+## [Unsplash](https://unsplash.com/)
 
 图片的质量比较高。还可以找到许多[coding相关的背景图](https://unsplash.com/search/photos/coding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)可以作为博客的首屏背景。
 
-[链接](https://unsplash.com/)
-
 # 工具类资源
 
-## Ikonate图标 - fully customisable & accessible vector icons
+## [Ikonate图标 - fully customisable & accessible vector icons](https://www.ikonate.com/)
 
-<img src="http://img.linqunshu.cn/icon.png">
+<img src="http://img.linqunshu.cn/icon.png" alt="">
 
-[地址](https://www.ikonate.com/)
+## [iconfont](https://www.iconfont.cn/)
 
-## 图片去底色工具
+> 阿里妈妈MUX倾力打造的矢量图标管理、交流平台。
+> 设计师将图标上传到Iconfont平台，用户可以自定义下载多种格式的icon，平台也可将图标转换为字体，便于前端工程师自由调整与调用。
 
-[地址](https://www.yasuotu.com/buttonColor)
+## [图片去底色工具](https://www.yasuotu.com/buttonColor)
+
+## [cssfx - CSS 特效](https://cssfx.dev/)
+
+## [PATATAP](https://www.patatap.com/) 
+
+Press any key, A to Z or spacebar 来生成一些列的随机艺术效果，非常好玩，适合创作剪辑。
+类似的网址还有：https://aidn.jp/mikutap/
+
+## [Photopea](https://www.photopea.com/)
+
+Web端的在线ps工具，完全由个人开发者完成的工具，一篇专门[介绍的文章](https://juejin.im/post/5d1178c3e51d45108223fc92)。
+
+# Web设计
+
+## [Web动画周报](https://juejin.im/post/5d14bcc46fb9a07f0052ecdf)
+
+## [The State of CSS Reflections](https://juejin.im/post/5d148f64f265da1bae390ce3)
 
 # demo站点
 
-## Common Voice - 开源语音数据库项目
+## [Common Voice - 开源语音数据库项目](https://voice.mozilla.org/zh-CN/speak)
 
-<img src="http://img.linqunshu.cn/common%20voice.png">
+<img src="http://img.linqunshu.cn/common%20voice.png" alt="">
 
 > Mozilla 基金会为了开发语音识别技术， 做了一个开源语音数据库项目，邀请全世界用户为这个数据库朗读句子，或者听他人的录音，判断朗读是否准确。
 
-[地址](https://voice.mozilla.org/zh-CN/speak)
+## [2020 美国大选竞选者的个人主页 介绍](https://practicaltypography.com/typography-2020.html)
 
+## [Nebula-ai](https://www.nebula-ai.com/#Home)
 
-## 2020 美国大选竞选者的个人主页 介绍
+设计的比较好看的站点，全屏切换。
 
-<img src="https://practicaltypography.com/images/candidates/bennet.gif" alt="">
-
-<img src="https://practicaltypography.com/images/candidates/biden.gif" alt="">
-
-<img src="https://practicaltypography.com/images/candidates/moulton.gif" alt="">
-
-<img src="https://practicaltypography.com/images/candidates/orourke.gif" alt="">
-
-<img src="https://practicaltypography.com/images/candidates/sanders.gif" alt="">
-
-<img src="https://practicaltypography.com/images/candidates/yang.gif" alt="">
-
-[地址](https://practicaltypography.com/typography-2020.html)
-
-## Nebula-ai
-
-设计的比较好看的站点，全屏切换。[地址](https://www.nebula-ai.com/#Home)
-
-## siteinspire
+## [siteinspire](https://www.siteinspire.com/)
 
 <img src="http://img.linqunshu.cn/siteinspire.png">
 
-收录了很多设计优秀的网站，可以汲取一下灵感。[地址](https://www.siteinspire.com/)
+收录了很多设计优秀的网站，可以汲取一下灵感。
 
-## reeoo.com
+## [reeoo.com](www.reeoo.com)
 
-一些Web、App设计方面的demo资源。[链接](www.reeoo.com)
+一些Web、App设计方面的demo资源。
