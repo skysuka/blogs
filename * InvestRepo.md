@@ -16,6 +16,8 @@ tags:
 - [技术向文章](#技术向文章)
     - [[加入情绪指标的中国版四因子模型](https://mp.weixin.qq.com/s/gHqJfxm53KfhHMDkaIojVw)](#加入情绪指标的中国版四因子模型httpsmpweixinqqcomsghqjfxm53kfhhmdkaiojvw)
     - [[一个很好用的指标：两融数据](https://mp.weixin.qq.com/s/UKa14uCl6wCA8E-YSiQLUw)](#一个很好用的指标两融数据httpsmpweixinqqcomsuka14ucl6wca8e-ysiqluw)
+- [其他](#其他)
+    - [[81部经典电影串起的世界金融历史](https://mp.weixin.qq.com/s/CziPKtZ1m4AtKj60VcpZ8Q)](#81部经典电影串起的世界金融历史httpsmpweixinqqcomsczipktz1m4atkj60vcpz8q)
 
 <!-- /TOC -->
 
@@ -37,7 +39,6 @@ tags:
   - 经过统计测试，EP是中国市场衡量价值因子效果最好的指标，原文中也因此选取EP作为价值因子来测试。
 </details>
 
-
 ## [一个很好用的指标：两融数据](https://mp.weixin.qq.com/s/UKa14uCl6wCA8E-YSiQLUw)
 
 类似的文章还有：[看看融资数据在量化投资中的作用](https://mp.weixin.qq.com/s/Kt0R1KUWjAxUajHePe64MA)
@@ -46,5 +47,8 @@ tags:
 > 两融余额不能来预判大盘走势。因为两融这个指标是滞后的，我们可以从历史数据来看，15年那波牛市中两融要晚于大盘见顶。
 > 两融余额不好用，但是融资买入占比的数据却很好用。这个代表了市场平均的杠杆水平，可以明显看到15年的时候这个指标要比上证指数提前见顶，能在一定程度上领先市场、预测市场。
 
+# 其他
 
+## [81部经典电影串起的世界金融历史](https://mp.weixin.qq.com/s/CziPKtZ1m4AtKj60VcpZ8Q)
 
+下面的81部金融电影，按照故事背景的时间排序为清朝时期、1929年金融危机、二战时期、80年代的金融世界、日本泡沫经济、1997年亚洲金融危机、2000年互联网泡沫危机、2008年次贷危机，以及类型归纳为：金融诈骗、银行故事、表面光鲜的银行家、收购、股市风云、股票经纪人、商业博弈，为你呈现一个漫长纷扰的世界金融史。

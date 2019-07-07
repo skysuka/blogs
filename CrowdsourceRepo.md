@@ -2,6 +2,7 @@
 title: CrowdsourceRepo
 date: 2019-07-06 10:53:36
 tags:
+copyright: false
 ---
 
 > 记录众包的有趣应用

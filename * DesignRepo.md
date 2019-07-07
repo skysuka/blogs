@@ -45,8 +45,6 @@ tags:
 
 ## [如何做一张漂亮的poster？](https://www.douban.com/note/709977802/)
 
-<img src="https://img1.doubanio.com/view/note/l/public/p58806378.webp" alt="">
-
 如何做一张漂亮的poster，既能在人群之中脱颖而出，又能清晰明了地tell a story?
 
 # 配色类资源
