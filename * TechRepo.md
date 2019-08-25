@@ -4,6 +4,7 @@ date: 2019-05-17 22:02:47
 copyright: false
 tags: 
     - 资源库
+    - 技术向
 ---
 
 >记录在软件开发、算法开发上会使用到的一些技术文章或工具。
@@ -18,8 +19,16 @@ tags:
     - [[CONVERT MARKDOWN TO PDF](http://www.mdtr2pdf.com/index_en.html)](#convert-markdown-to-pdfhttpwwwmdtr2pdfcomindex_enhtml)
     - [[tesseract.js - 一个可以完成 62 种语言 OCR （光学识别）的 JS 库](https://github.com/naptha/tesseract.js)](#tesseractjs---一个可以完成-62-种语言-ocr-光学识别的-js-库httpsgithubcomnapthatesseractjs)
     - [[吐个槽 - 免费的用户意见反馈平台](https://tucao.qq.com/)](#吐个槽---免费的用户意见反馈平台httpstucaoqqcom)
+    - [[Hotjar - Get instant visual feedback for your website](https://www.hotjar.com/)](#hotjar---get-instant-visual-feedback-for-your-websitehttpswwwhotjarcom)
+    - [[FoamTree - Addictively interactive Voronoi treemap](https://carrotsearch.com/foamtree/)](#foamtree---addictively-interactive-voronoi-treemaphttpscarrotsearchcomfoamtree)
+    - [[ChinaMobilePhoneNumberRegex - 一组匹配中国大陆手机号码的正则表达式](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex)](#chinamobilephonenumberregex---一组匹配中国大陆手机号码的正则表达式httpsgithubcomvincentsitchinamobilephonenumberregex)
+    - [[FrontEndNav](http://nav.web-hub.cn/)](#frontendnavhttpnavweb-hubcn)
 - [学习资源](#学习资源)
     - [[python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)](#python---100天从新手到大师httpsgithubcomjackfruedpython-100-days)
+    - [[About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)](#about-swiftuihttpsgithubcomjuanpeabout-swiftui)
+    - [[《Koa2进阶学习笔记》](https://chenshenhai.github.io/koa2-note/)](#koa2进阶学习笔记httpschenshenhaigithubiokoa2-note)
+    - [[前端九部 - 入门者手册2019](https://www.yuque.com/fe9/basic)](#前端九部---入门者手册2019httpswwwyuquecomfe9basic)
+    - [[学习CSS布局](http://zh.learnlayout.com/)](#学习css布局httpzhlearnlayoutcom)
 - [技术文章](#技术文章)
     - [[如何优雅的在github上贡献代码](https://segmentfault.com/a/1190000000736629)](#如何优雅的在github上贡献代码httpssegmentfaultcoma1190000000736629)
     - [[] [如果有人问你数据库的原理，叫他看这篇文章](http://blog.jobbole.com/100349/)](#-如果有人问你数据库的原理叫他看这篇文章httpblogjobbolecom100349)
@@ -30,8 +39,14 @@ tags:
     - [[云原生应用的前世今生](https://mp.weixin.qq.com/s/8SpqeAMegqS3YvXR9PrrVQ)](#云原生应用的前世今生httpsmpweixinqqcoms8spqeamegqs3yvxr9prrvq)
     - [[终于有人把中台说清楚了](https://mp.weixin.qq.com/s/t948o1IXvynOlHxObT6DDw)](#终于有人把中台说清楚了httpsmpweixinqqcomst948o1ixvynolhxobt6ddw)
     - [[使用PyEcharts绘制股票tree map](https://mp.weixin.qq.com/s/MAmWmjLOKU_x36HQ6lnubw)](#使用pyecharts绘制股票tree-maphttpsmpweixinqqcomsmamwmjloku_x36hq6lnubw)
+    - [[Refresh Tokens: When to Use Them and How They Interact with JWTs](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/)](#refresh-tokens-when-to-use-them-and-how-they-interact-with-jwtshttpsauth0comblogrefresh-tokens-what-are-they-and-when-to-use-them)
+    - [[网页加载性能优化方法研究](https://segmentfault.com/a/1190000015145466)](#网页加载性能优化方法研究httpssegmentfaultcoma1190000015145466)
+    - [[Avoiding Webscraping Throttling Using Python and Tor as a Proxy - 使用Tor改变网络爬虫的IP地址](https://boredhacking.com/tor-webscraping-proxy/)](#avoiding-webscraping-throttling-using-python-and-tor-as-a-proxy---使用tor改变网络爬虫的ip地址httpsboredhackingcomtor-webscraping-proxy)
+    - [[How I Could Have Hacked Any Instagram Account](https://thezerohack.com/hack-any-instagram#articlescroll)](#how-i-could-have-hacked-any-instagram-accounthttpsthezerohackcomhack-any-instagramarticlescroll)
+    - [[从图片优化说起](https://cjting.me/2019/07/29/image-optimization/)](#从图片优化说起httpscjtingme20190729image-optimization)
 - [科普趣文](#科普趣文)
     - [[看问题要看到本质：从Web服务器说起](https://mp.weixin.qq.com/s/k74RXwBKOgeGaWBtOXnHQA)](#看问题要看到本质从web服务器说起httpsmpweixinqqcomsk74rxwbkogegawbtoxnhqa)
+    - [[前端开发 20 年变迁史](https://mp.weixin.qq.com/s/yNg7Q0XNLJMnqffTIJhNUg)](#前端开发-20-年变迁史httpsmpweixinqqcomsyng7q0xnljmnqfftijhnug)
 
 <!-- /TOC -->
 
@@ -57,10 +72,36 @@ mock数据的工具。
 
 > 腾讯推出的工具，几行代码就可以为页面加入一个互动社区，可以接入应用程序、小程序、WEB、H5、微信公众号等各端。
 
+## [Hotjar - Get instant visual feedback for your website](https://www.hotjar.com/)
+
+一个可以提供用户体验与反馈意见界面的插件，同时也提供了热力图的功能。
+
+## [FoamTree - Addictively interactive Voronoi treemap](https://carrotsearch.com/foamtree/)
+
+FoamTree is a JavaScript Voronoi treemap visualization. Innovative layouts, animated interactions, endless customization.
+
+## [ChinaMobilePhoneNumberRegex - 一组匹配中国大陆手机号码的正则表达式](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex)
+
+## [FrontEndNav](http://nav.web-hub.cn/)
+
+收集了大量高质量的前端相关资源，其中包含教程文档、实用 API、模板插件、开发工具等内容。
 
 # 学习资源
 
 ## [python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
+
+## [About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)
+
+> Gathering all info published, both by Apple and by others, about new framework SwiftUI.
+
+## [《Koa2进阶学习笔记》](https://chenshenhai.github.io/koa2-note/)
+
+## [前端九部 - 入门者手册2019](https://www.yuque.com/fe9/basic)
+
+九部成员合著的web前端开发零基础入门手册
+
+## [学习CSS布局](http://zh.learnlayout.com/)
+
 
 
 # 技术文章
@@ -117,6 +158,31 @@ Supercell 的模式给参加此次拜访的阿里高管们很大的震撼，在�
 
 ## [使用PyEcharts绘制股票tree map](https://mp.weixin.qq.com/s/MAmWmjLOKU_x36HQ6lnubw)
 
+## [Refresh Tokens: When to Use Them and How They Interact with JWTs](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/)
+
+> Learn about refresh tokens and how they fit in the modern web. Get a working sample of how to implement it with NodeJS
+
+更多关于token的文章：
+- [彻底理解cookie\session\token](https://segmentfault.com/a/1190000019126883)
+
+## [网页加载性能优化方法研究](https://segmentfault.com/a/1190000015145466) 
+
+- 网页的加载性能是影响用户体验的最重要因素，页面加载时间过长，极有可能会令用户直接关闭网页，即使网页本身的流程和UI等方面优化得再出色，也不会有任何价值。本文将以优化网页加载性能的角度出发，介绍网页渲染的过程以及各类资源阻塞网页渲染的情况，并给出优化的方向。
+
+## [Avoiding Webscraping Throttling Using Python and Tor as a Proxy - 使用Tor改变网络爬虫的IP地址](https://boredhacking.com/tor-webscraping-proxy/)
+
+## [How I Could Have Hacked Any Instagram Account](https://thezerohack.com/hack-any-instagram#articlescroll)
+
+- 作者讲述他如何发现 Instagram 的一个漏洞，可以改掉任何用户的密码，最后得到 Facebook 公司三万美元奖金的故事。
+
+主要的操作是，黑客通过点击发送验证码重置密码，对六位数的验证码进行暴力尝试，通过使用多达5000个IP来保证这种尝试的进行，购买IP的操作可以通过购买云主机服务。
+
+## [从图片优化说起](https://cjting.me/2019/07/29/image-optimization/)
+
+> 无论是对于提高加载速度，还是对于优化用户体验，优化图片都是一个重要的手段。
+
 # 科普趣文
 
 ## [看问题要看到本质：从Web服务器说起](https://mp.weixin.qq.com/s/k74RXwBKOgeGaWBtOXnHQA)
+
+## [前端开发 20 年变迁史](https://mp.weixin.qq.com/s/yNg7Q0XNLJMnqffTIJhNUg)

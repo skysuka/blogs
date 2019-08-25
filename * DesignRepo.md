@@ -4,6 +4,7 @@ date: 2019-05-17 22:01:41
 copyright: false
 tags: 
     - 资源库
+    - 设计向
 ---
 
 >摘录设计上的一些工具、demo与案例分析。
@@ -20,13 +21,16 @@ tags:
     - [[ColorDot](https://color.hailpixel.com/)](#colordothttpscolorhailpixelcom)
 - [图片类资源](#图片类资源)
     - [[Unsplash](https://unsplash.com/)](#unsplashhttpsunsplashcom)
+    - [[manypixels - Illustration Gallery](https://gallery.manypixels.co/)](#manypixels---illustration-galleryhttpsgallerymanypixelsco)
 - [工具类资源](#工具类资源)
     - [[Ikonate图标 - fully customisable & accessible vector icons](https://www.ikonate.com/)](#ikonate图标---fully-customisable--accessible-vector-iconshttpswwwikonatecom)
     - [[iconfont](https://www.iconfont.cn/)](#iconfonthttpswwwiconfontcn)
     - [[图片去底色工具](https://www.yasuotu.com/buttonColor)](#图片去底色工具httpswwwyasuotucombuttoncolor)
     - [[cssfx - CSS 特效](https://cssfx.dev/)](#cssfx---css-特效httpscssfxdev)
-    - [[PATATAP](https://www.patatap.com/)](#patataphttpswwwpatatapcom)
+    - [[PATATAP - 随机艺术效果](https://www.patatap.com/)](#patatap---随机艺术效果httpswwwpatatapcom)
     - [[Photopea](https://www.photopea.com/)](#photopeahttpswwwphotopeacom)
+    - [[玛良 - 让动效更简单](https://design.alipay.com/emotion)](#玛良---让动效更简单httpsdesignalipaycomemotion)
+    - [[Ant Motion - 使用 Ant Motion 能够快速在 React 框架中使用动画](https://motion.ant.design/index-cn)](#ant-motion---使用-ant-motion-能够快速在-react-框架中使用动画httpsmotionantdesignindex-cn)
 - [Web设计](#web设计)
     - [[Web动画周报](https://juejin.im/post/5d14bcc46fb9a07f0052ecdf)](#web动画周报httpsjuejinimpost5d14bcc46fb9a07f0052ecdf)
     - [[The State of CSS Reflections](https://juejin.im/post/5d148f64f265da1bae390ce3)](#the-state-of-css-reflectionshttpsjuejinimpost5d148f64f265da1bae390ce3)
@@ -67,6 +71,10 @@ tags:
 
 图片的质量比较高。还可以找到许多[coding相关的背景图](https://unsplash.com/search/photos/coding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)可以作为博客的首屏背景。
 
+## [manypixels - Illustration Gallery](https://gallery.manypixels.co/)
+
+可以对色彩进行在线选择的插图库。
+
 # 工具类资源
 
 ## [Ikonate图标 - fully customisable & accessible vector icons](https://www.ikonate.com/)
@@ -82,7 +90,7 @@ tags:
 
 ## [cssfx - CSS 特效](https://cssfx.dev/)
 
-## [PATATAP](https://www.patatap.com/) 
+## [PATATAP - 随机艺术效果](https://www.patatap.com/) 
 
 Press any key, A to Z or spacebar 来生成一些列的随机艺术效果，非常好玩，适合创作剪辑。
 类似的网址还有：https://aidn.jp/mikutap/
@@ -90,6 +98,14 @@ Press any key, A to Z or spacebar 来生成一些列的随机艺术效果，非�
 ## [Photopea](https://www.photopea.com/)
 
 Web端的在线ps工具，完全由个人开发者完成的工具，一篇专门[介绍的文章](https://juejin.im/post/5d1178c3e51d45108223fc92)。
+
+## [玛良 - 让动效更简单](https://design.alipay.com/emotion)
+
+犸良作为一站式动效制作平台，通过海量的动效素材以及可视化编辑能力，帮助零基础的用户轻松完成动效制作。
+
+## [Ant Motion - 使用 Ant Motion 能够快速在 React 框架中使用动画](https://motion.ant.design/index-cn)
+
+提供了单项，组合动画，以及整套解决方案。
 
 # Web设计
 
